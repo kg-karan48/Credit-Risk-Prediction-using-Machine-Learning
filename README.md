@@ -6,7 +6,7 @@ Loan defaults lead to major financial losses for banks.
 In this project, I developed a classification model to predict loan default (0 = No Default, 1 = Default) using applicant and loan-related features.
 
 
-Dataset Information :
+Dataset Information ;
 Total Records: 30,000+
 Target Variable: Loan Status (Default / No Default)
 
